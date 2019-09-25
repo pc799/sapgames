@@ -728,7 +728,7 @@ delay(200);
 
 	cout<<"\n\n\n\n\n\n\n";
 	cout<<"|-----------------STONE-PAPER-SCISSOR---------------------|"<<endl;
-	cout<<"|Stone â paper â Scissors is a zero-sum hand,             |"<<endl;
+	cout<<"|Stone Ã¢ paper Ã¢ Scissors is a zero-sum hand,             |"<<endl;
 	cout<<"|in which player forms one of three shapes with hand.     |"<<endl;
 	cout<<"|These shapes are \"stone\" , \"paper\" , and \"scissors\"|"<<endl;
 	cout<<"|---------------------------------------------------------|"<<endl;
@@ -1330,7 +1330,7 @@ void intro_s()
 
 /*
 CREDITS....................................................................
-<<SAP>>GAMES, C++ project created by SAP(santhosh-Ashwanth-Praveen)UNION.
+<<SAP>>GAMES, C++ project created by Santhosh, Ashwanth and Praveen.
 2017.V.10.2
 ...........................................................................
 */
